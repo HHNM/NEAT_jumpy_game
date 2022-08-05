@@ -17,4 +17,4 @@ An AI that learns to jump on platforms, using the Python implementation of the N
 </p>
 
 
-*The work on the inputs can still be improved.*
+*The work on the inputs can still be improved.*{font-size: 75;}
