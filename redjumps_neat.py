@@ -98,20 +98,6 @@ class Player(pygame.sprite.Sprite):
         self.rect.y += dy + scroll + scroll_bg
 
         return scroll
-
-    def movetoplatform(self):
-        if self.in_air:
-            for platform in platform_list:
-                if self.rect.bottom < platform.rect.top:
-                    if self.rect.left < platform.rect.left:
-                        self.moving_right = True
-                    else:
-                        self.moving_right = False
-                if self.rect.bottom < platform.rect.top:
-                    if self.rect.right > platform.rect.right:
-                        self.moving_left = True
-                    else:
-                        self.moving_left = False
     
     def update(self):
         for platform in platform_list:
@@ -120,9 +106,6 @@ class Player(pygame.sprite.Sprite):
     def draw(self):
         screen.blit(pygame.transform.flip(self.image, self.flip, False), self.rect)
     
-
-
-
 
 class Platform(pygame.sprite.Sprite):
     def __init__(self, x, y, width):
