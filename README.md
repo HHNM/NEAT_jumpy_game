@@ -1,7 +1,6 @@
 # NEAT_python_game_redjumps
-NEAT python jumping platform game
 
-An AI that learns to jump on platforms, using the Python implementation of the NEAT neuroevolution algorithm.
+NEAT python jumping platform game: An AI that learns to jump on platforms, using the Python implementation of the NEAT neuroevolution algorithm.
 
 - There are 3 independent python files:
 
