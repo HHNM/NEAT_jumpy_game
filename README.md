@@ -18,4 +18,4 @@ An AI that learns to jump on platforms, using the Python implementation of the N
 
 
 
-<sub><sup>*The work on the inputs can still be improved.*</sup></sub>
+<sub>*The work on the inputs can still be improved.*</sub>
