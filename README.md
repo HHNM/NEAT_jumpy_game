@@ -5,11 +5,11 @@ An AI that learns to jump on platforms, using the Python implementation of the N
 
 - There are 3 independent python files:
 
-  `redjumps_withuser_inputs.py` : you can play with the game using user inputs: left, right and up keys.
+  `redjumps_withuser_inputs.py` : you can play and test the game using user inputs: left, right and up keys, to make sure that the game is playable.
 
-  `redjumps_ai_without_neat.py` the character jumps using a movetoplatform() function 
+  `redjumps_ai_without_neat.py` the character jumps using a movetoplatform() function.
 
-  `redjumps_neat.py` the ai learns to jump using NEAT-python
+  `redjumps_neat.py` the ai learns to jump using NEAT-python.
 
 
 
