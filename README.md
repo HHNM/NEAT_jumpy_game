@@ -15,4 +15,4 @@ There are 3 independant python files:
 
 ![Alt text](res/redjumps.png?raw=true "redjumpsNEAT")
 
-*The work on the inputs can still be improved.
+*The work on the inputs can still be improved.*
