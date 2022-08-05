@@ -10,11 +10,11 @@ An AI that learns to jump on platforms, using the Python implementation of the N
   `redjumps_ai_without_neat.py` the character jumps using a movetoplatform() function.
 
   `redjumps_neat.py` the ai learns to jump using NEAT-python.
-  
+
+
 <p align="center">
   <img src="res/redjumps.png" />
 </p>
 
-![Alt text](res/redjumps.png?raw=true "redjumpsNEAT")
 
 *The work on the inputs can still be improved.*
