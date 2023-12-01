@@ -1,4 +1,4 @@
-# NEAT_python_game_redjumps
+# NEAT_python_game_jumping_platform
 
 NEAT python jumping platform game: 
 
