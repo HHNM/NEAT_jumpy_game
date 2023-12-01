@@ -17,5 +17,3 @@ An AI that learns to jump on platforms, using the Python implementation of the N
   <img src="res/redjumps.png" width="361.6" height="538.4">
 </p>
 
-<sub >*The work on the inputs can still be improved.*</sub>
-
